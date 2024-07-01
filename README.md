@@ -20,7 +20,7 @@ This project demonstrates a simple notepad application built using the Qt framew
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your/repository.git
+   https://github.com/Galaxy-SRS-360/qtapp_example_of_notepad
 
 ## Build Instructions
 
@@ -37,15 +37,15 @@ This project demonstrates a simple notepad application built using the Qt framew
 
 To install this application, follow these steps:
 
-1. Download the installer from the [release page]([(https://github.com/Galaxy-SRS-360/qtapp_example_of_notepad/tree/main/window_installer)]) or directly from the following link:
+1. Download the installer from the [release page](https://github.com/Galaxy-SRS-360/qtapp_example_of_notepad/tree/main/window_installer) or directly from the following link:
 
-   [Download myguiappinstaller.exe]([(https://github.com/Galaxy-SRS-360/qtapp_example_of_notepad/tree/main/window_installer)])
+   [Download myguiappinstaller.exe](https://github.com/Galaxy-SRS-360/qtapp_example_of_notepad/tree/main/window_installer)
 
 2. Run the installer (`myguiappinstaller.exe`).
 
 3. Follow the on-screen instructions to complete the installation process.
 
-4. After installation, you can find the application in your Start menu or by searching for "QtApp Notepad".
+4. After installation, you can find the application in your Start menu or by searching for "myApp".
 
 # Contributing
 
