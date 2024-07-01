@@ -1,0 +1,1 @@
+# qtapp_example_of_notepad
